@@ -1,4 +1,4 @@
-![image](https://github.com/Rithikachezhian/ODD2023-WT-Ex-03-Timetable/assets/145742406/00586ba9-d5e5-4310-9347-082d51bfa88f)# Ex-04-Timetable
+ Ex-04-Timetable
 name:Rithika dep:AI&DS reg no:23013374
 
 ## AIM
@@ -121,3 +121,4 @@ Execute the program
 </html>
 # OUPUT
 ![Uploading Screenshot 2023-11-28 194029.png…]()
+

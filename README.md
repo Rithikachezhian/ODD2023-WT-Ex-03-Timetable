@@ -1,5 +1,9 @@
- Ex-04-Timetable
-name:Rithika dep:AI&DS reg no:23013374
+##  Ex-04-Timetable
+name:Rithika
+
+dep:AI&DS
+
+reg no:23013374
 
 ## AIM
 To Write a html webpage page to display your timetable.
@@ -119,6 +123,8 @@ Execute the program
     </table>
 </body>
 </html>
-# OUPUT
-![Uploading Screenshot 2023-11-28 194029.png…]()
+# OUPUT:
+
+![Screenshot 2023-11-28 194029](https://github.com/Rithikachezhian/ODD2023-WT-Ex-03-Timetable/assets/145742406/8d341111-35a2-46f5-b62b-70712fffa068)
+
 
